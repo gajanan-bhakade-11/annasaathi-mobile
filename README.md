@@ -1,5 +1,7 @@
 # AnnaSaathi — mobile app
 
+**Live web demo:** [AnnaSaathi](https://gajanan-bhakade-11.github.io/annasaathi-mobile/)
+
 React Native · Expo SDK 58 · Expo Router · TypeScript. Setup, the demo script and project status are in the [root README](../README.md).
 
 ```bash
